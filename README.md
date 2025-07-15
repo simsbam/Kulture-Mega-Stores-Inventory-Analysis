@@ -27,4 +27,17 @@ The following business questions were answered through SQL queries:
 7. **Returns Insight**: Customers who returned orders were identified, along with their segment.
 8. **Shipping Cost vs Priority**: Average shipping cost was compared across order priority levels and shipping modes, revealing inconsistency.
 
-These insights provide decision-makers with direction on which regions to support, products to promote, customers to retain, and logistical issues to address. The entire queries can be access 
+These insights provide decision-makers with direction on which regions to support, products to promote, customers to retain, and logistical issues to address. The entire queries can be access [Here](https://github.com/simsbam/Kulture-Mega-Stores-Inventory-Analysis/blob/main/KMS%20SQL.sql)
+
+### Recommendations
+- Focus promotions on top-performing product categories and customer segments.
+- Investigate high shipping cost methods not aligned with order priority.
+- Strengthen customer experience for regions with low sales and high returns.
+- Target returning customers with retention offers or satisfaction surveys.
+- Reassess suppliers or shipping partners causing profitability leaks.
+  
+## Tools and Skills Demonstrated
+- SQL (MySQL) – SELECT, JOIN, GROUP BY, ORDER BY, LIMIT, WHERE, HAVING, COUNT, SUM, ROUND, and GROUP_CONCAT functions.
+- Business Analysis – Answering real-world executive questions using data.
+- Data Cleaning – Handling columns with spaces, aliases, date filters, and formatting issues.
+
